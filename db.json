@@ -1,11 +1,5 @@
 {
- "id": 3, 
-"title": {
-"name": "Learn Python: The Complete Python Programming Course",
-  "id": 1
-},
-"headline": {
-"name":"Learn A-Z everything about Python, from the basics, to advanced topics like Python GUI, Python Data Analysis, and more!",
-  "id":2,
-}
+ "id": 1, 
+"title": "a",
+ "headline": ""b
 }
