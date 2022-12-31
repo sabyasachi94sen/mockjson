@@ -1,8 +1,8 @@
 {
   "title": "Learn Python: The Complete Python Programming Course",
   "headline": "Learn A-Z everything about Python, from the basics, to advanced topics like Python GUI, Python Data Analysis, and more!",
-   "rating": 4.3,
-  "rating_count": 4294,
+   "rating": "4.3",
+  "rating_count": "4294",
   "students":"24,411",
   "created_by": [
    {
@@ -19,23 +19,23 @@
 ],
   "rating_reviews": [
    {
-    "star": 5,
+    "star": "5",
     "id":1
 },
    {
-    "star": 5,
+    "star": "5",
     "id": 2
 },
  {
-    "star": 5,
+    "star": "5",
     "id": 3
 },
  {
-    "star": 5,
+    "star": "5",
     "id": 4
 },
     {
-    "star": 5,
+    "star": "5",
     "id": 5
 }
    
